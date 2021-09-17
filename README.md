@@ -1,2 +1,2 @@
-# josedecastrojr
-Olá! Eu sou o José MS de castro jr.
+# José MS de Castro Jr.
+Graduando em Eng. de Software.
