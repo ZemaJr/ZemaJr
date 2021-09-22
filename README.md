@@ -23,7 +23,7 @@
   
 ##
   
-<div> 
+<div style="display: flex-box"> 
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -32,7 +32,7 @@
   
   <a href="https://www.linkedin.com/in/josedecastrojr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  <a href = ""><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send/?phone=5591984555826&text=Ol%C3%A1%2C+sou+o+Jos%C3%A9%20de%20Castro%20Jr.+%20Graduando%20em%20Engenharia%20de%20Software.&app_absent=0"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
  
   ![Snake animation](https://github.com/ZemaJr/ZemaJr/blob/output/github-contribution-grid-snake.svg)
  
