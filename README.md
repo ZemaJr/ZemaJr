@@ -18,7 +18,8 @@
   <img align="center" alt="ZemaJr-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/handlebars/handlebars-original-wordmark.svg">
   <img align="center" alt="ZemaJr-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg">
   
-  <img align="right" alt="ZemaJr-Gif" height="170" width="130" src="https://phoneky.co.uk/thumbs/screensavers/down/animals/theking_z6hd8in3.gif">
+  <!--<img align="right" alt="Leão-Gif" height="170" width="130" src="https://phoneky.co.uk/thumbs/screensavers/down/animals/theking_z6hd8in3.gif">-->
+  <img align="right" alt="Alucard-Gif" height="140" width="160" src="https://static.wikia.nocookie.net/castlevania/images/6/6e/SOTN_Agunea.gif/revision/latest?cb=20171008065800">
 </div>
   
 ##
