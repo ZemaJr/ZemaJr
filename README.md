@@ -20,9 +20,13 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="mySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
+<!--   https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg -->
+<!--   https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg -->
  
-  <img align="right" alt="Leão-Gif" height="170" width="130" src="https://phoneky.co.uk/thumbs/screensavers/down/animals/theking_z6hd8in3.gif">
-<!--   <img align="right" alt="Alucard-Gif" height="164" width="245" src="https://static.wikia.nocookie.net/castlevania/images/6/6e/SOTN_Agunea.gif/revision/latest?cb=20171008065800"> -->
+  <img align="right" alt="Leão" height="170" width="130" src="https://phoneky.co.uk/thumbs/screensavers/down/animals/theking_z6hd8in3.gif">
+<!--   <img align="right" alt="Alucard" height="164" width="245" src="https://static.wikia.nocookie.net/castlevania/images/6/6e/SOTN_Agunea.gif/revision/latest?cb=20171008065800"> -->
 </div>
   
 ##
