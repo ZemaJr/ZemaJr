@@ -1,25 +1,28 @@
 # Hello, World! Eu sou o José de Castro Jr. Veja bem vindo(a).
 👨‍🎓 Graduando em Engenharia de Software.
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/ZemaJr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZemaJr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZemaJr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZemaJr&theme=dark" alt="GitHub Streaks"/>
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ZemaJr&bg_color=0D1117&color=FF9100&line=00AA9B&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ZemaJr&row=10&column=7&margin-h=8&theme=dracula&count_private=true&margin-w=15&no-frame=true" alt="Trophies"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="ZemaJr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ZemaJr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ZemaJr-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="ZemaJr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ZemaJr-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="ZemaJr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ZemaJr-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!--<img align="center" alt="ZemaJr-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/handlebars/handlebars-original-wordmark.svg">
-  <img align="center" alt="ZemaJr-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg">-->
-  
-  <!--<img align="right" alt="Leão-Gif" height="170" width="130" src="https://phoneky.co.uk/thumbs/screensavers/down/animals/theking_z6hd8in3.gif">-->
-  <img align="right" alt="Alucard-Gif" height="164" width="245" src="https://static.wikia.nocookie.net/castlevania/images/6/6e/SOTN_Agunea.gif/revision/latest?cb=20171008065800">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+  <img align="right" alt="Leão-Gif" height="170" width="130" src="https://phoneky.co.uk/thumbs/screensavers/down/animals/theking_z6hd8in3.gif">
+<!--   <img align="right" alt="Alucard-Gif" height="164" width="245" src="https://static.wikia.nocookie.net/castlevania/images/6/6e/SOTN_Agunea.gif/revision/latest?cb=20171008065800"> -->
 </div>
   
 ##
