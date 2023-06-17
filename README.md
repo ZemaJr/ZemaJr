@@ -1,4 +1,4 @@
-# Hello, World! Eu sou o José (Zêma) de Castro Jr. Veja bem vindo(a).
+# Hello, World! Eu sou o José MS (Zêma) de Castro Jr. Veja bem vindo(a).
 👨‍🎓 Graduando em Engenharia de Software.
 
 <div align="center" style="display: inline_block">
