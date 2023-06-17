@@ -7,7 +7,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZemaJr&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZemaJr&theme=dark" alt="GitHub Streaks"/>
 <!--   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ZemaJr&bg_color=0D1117&color=FF9100&line=00AA9B&point=FFFFFF&hide_border=true" alt="Activity Graph"/> -->
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ZemaJr&row=10&column=7&margin-h=8&theme=dracula&count_private=true&margin-w=15&no-frame=true" alt="Trophies"/>
+<!--   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ZemaJr&row=10&column=7&margin-h=8&theme=dracula&count_private=true&margin-w=15&no-frame=true" alt="Trophies"/> -->
 </div>
 
 <div style="display: inline_block"><br>
